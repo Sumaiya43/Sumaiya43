@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumaiya43
+- 👋 Hi, I’m @Sumaiya43 (Mazeda Begum)
 - 👀 I’m interested in learning new programming languages, love to explore!!
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on big project
