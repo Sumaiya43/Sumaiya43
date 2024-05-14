@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sumaiya43 (Mazeda Begum)
-- 👀 I’m interested in learning new programming languages, love to explore!!
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on big project
-- 📫 Reach me through my email address "sumaiyabegum43@gmail.com"
+👋 Hi there! I'm Mazeda, a frontend wizard with expertise in React, JavaScript, TypeScript, Next.js, HTML (with Tailwind), and CSS (including Sass). I'm passionate about crafting pixel-perfect, fully responsive web experiences that captivate users and drive engagement.
+
+💼 While I excel in frontend development, I'm also diving into backend technologies like REST, GraphQL, Express, MongoDB, and authentication. I'm eager to expand my horizons and collaborate on projects where we can seamlessly integrate frontend and backend solutions to create remarkable digital products.
+
+🚀 Let's team up and turn ideas into reality. Together, we can rock the digital landscape with innovative and user-centric web solutions that leave a lasting impression.
 
 <!---
 Sumaiya43/Sumaiya43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
