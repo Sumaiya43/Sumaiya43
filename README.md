@@ -1,10 +1,4 @@
-👋 Hi there! I'm Mazeda, a frontend wizard with expertise in React, JavaScript, TypeScript, Next.js, HTML (with Tailwind), and CSS (including Sass). I'm passionate about crafting pixel-perfect, fully responsive web experiences that captivate users and drive engagement.
-
-💼 While I excel in frontend development, I'm also diving into backend technologies like REST, GraphQL, Express, MongoDB, and authentication. I'm eager to expand my horizons and collaborate on projects where we can seamlessly integrate frontend and backend solutions to create remarkable digital products.
-
-🚀 Let's team up and turn ideas into reality. Together, we can rock the digital landscape with innovative and user-centric web solutions that leave a lasting impression.
-
-<!---
-Sumaiya43/Sumaiya43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey, I’m Mazeda 👋
+I’m a full-stack developer who enjoys solving real-world problems through thoughtful, practical software. Much of my work involves healthcare technology and medical imaging, where reliability, performance, and a clear user experience really matter.
+I like taking complicated workflows and making them feel simple—whether that means improving an interface, integrating different technologies, or tracking down the kind of bug that only appears when everything else seems correct. I care about clean code, but I care even more about building things that are genuinely useful to the people using them.
+I’m always learning, experimenting, and looking for better ways to turn ambitious ideas into dependable products.
